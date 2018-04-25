@@ -18,3 +18,8 @@ function destructivelyAddElementToEndOfArray(array,ele){
   return array;
 }
 
+function accessElementInArray(array,idx){
+  return array[idx];
+}
+
+function 
